@@ -11,7 +11,7 @@ st.title("Global Trade Hub :bar_chart")
 
 st.header("We will Find Your way, So you don't have to Look for a Shelter. ")
 
-st.image("bar.png")
+st.image('bar.png')
 
 st.markdown("## WE are hoping for the bright future. ")
 
@@ -29,3 +29,4 @@ st.write("Discover how the Capital Asset Pricing Model (CAPM) calculates the exp
 
 st.markdown("#### :five: CAPM Beta. " )
 st.write("Calculate Beta and Expected Return for Individual Stocks. ")
+
